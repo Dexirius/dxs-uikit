@@ -2087,11 +2087,11 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/FreezerFinance",
+                href: "https://github.com/Dexirius",
             },
             {
                 label: "Blog",
-                href: "https://freezerfinance.medium.com/",
+                href: "https://dexirius.medium.com/",
             },
         ],
     },
@@ -2103,18 +2103,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/freezerfinancechat",
+                href: "https://t.me/dexiriusEN",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/freezerfinanceann",
+                href: "https://t.me/dexiriusann",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Freezer_Finance",
+        href: "https://twitter.com/DexiriusToken",
     },
 ];
 var MENU_HEIGHT = 64;
